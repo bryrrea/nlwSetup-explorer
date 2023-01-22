@@ -7,9 +7,9 @@
 <img src=".github/preview.jpg" alt="Imagem de preview do projeto" width="100%" />
 
 <p align="center">
-    <a href="#-sobre-mim">Sobre mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-ferramentas-e-tecnologias">Ferramentas e tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#sobre-mim">Sobre mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#ferramentas-e-tecnologias">Ferramentas e tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#layout">Layout</a>
 </p>
 
