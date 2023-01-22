@@ -35,3 +35,5 @@ O Monitor de Hábitos é um projeto web front-end para ajudar as pessoas no moni
 ## Layout
 
 Você pode dar uma olhada no layout [aqui](https://www.figma.com/community/file/1195327109778210238). Contudo, você precisa ter uma conta no [Figma](https://figma.com).
+
+**Verifique o projeto rodando [aqui](https://bryrrea.github.io/nlwSetup-explorer/)!**

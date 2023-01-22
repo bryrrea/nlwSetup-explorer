@@ -39,3 +39,5 @@ The Habits Tracker is a front-end web project to help people track their day-to-
 ## Layout
 
 You can check out the project layout [here](https://www.figma.com/community/file/1195327109778210238). However, you need to have an account on [Figma](https://figma.com).
+
+**Check out the project running [here](https://bryrrea.github.io/nlwSetup-explorer/)!**
